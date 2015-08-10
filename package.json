@@ -1,4 +1,5 @@
 {
+  "private": true,
   "name": "github-npm-deps",
   "version": "0.0.0",
   "description": "Userscript that links dependencies from package.json to respective GitHub homepages",
