@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         github-npm-deps
-// @version      0.0.0
+// @version      0.1.0
 // @description  Link dependencies from package.json to respective GitHub homepages
 // @license      MIT
 // @namespace    https://github.com/eush77/github-npm-deps
