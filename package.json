@@ -1,0 +1,31 @@
+{
+  "name": "github-npm-deps",
+  "version": "0.0.0",
+  "description": "Userscript that links dependencies from package.json to respective GitHub homepages",
+  "author": "Eugene Sharygin <eush77@gmail.com>",
+  "license": "MIT",
+  "files": [
+    "github-npm-deps.user.js"
+  ],
+  "homepage": "https://github.com/eush77/github-npm-deps",
+  "repository": "eush77/github-npm-deps",
+  "bugs": {
+    "url": "https://github.com/eush77/github-npm-deps/issues"
+  },
+  "keywords": [
+    "dependencies",
+    "devDependencies",
+    "github",
+    "greasemonkey",
+    "homepage",
+    "link",
+    "npm",
+    "package.json",
+    "repository",
+    "script",
+    "user.js",
+    "userscript"
+  ],
+  "dependencies": {},
+  "devDependencies": {}
+}
