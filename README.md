@@ -4,6 +4,8 @@ Userscript that links dependencies from `package.json` to respective GitHub home
 
 Does not require any external dependencies. Uses http://ghub.io underneath.
 
+[Install from GreasyFork.](https://greasyfork.org/en/scripts/11609-github-npm-deps)
+
 ## Inspiration
 
 - [github-npm] — original extension for Chrome.
